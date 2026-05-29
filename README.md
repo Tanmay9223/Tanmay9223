@@ -6,7 +6,7 @@ I design scalable infrastructure and integrate production-grade GenAI models.
 
 If an idea pops into my head, chances are I'll architect it and ship it.
 
-My main tech stack is Node.js, Python, Golang, and PostgreSQL. My favorite tools are Docker, AWS, LangChain, and Redis.
+My main tech stack is Node.js, Python, Laravel, and PostgreSQL. My favorite tools are Docker, GCP, LangChain, and Redis.
 
 I've got a bunch of projects, but I'm currently working on [Synfiction.ai](https://synfiction.ai/).
 
