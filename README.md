@@ -17,4 +17,4 @@ If you want to reach out, my [email](mailto:gargtanmay321@gmail.com) and [Linked
 - I optimized a crypto trading platform to handle 3M+ weekly transactions
 - I love tinkering with advanced mobile photography
 - I capture astronomical events like total lunar eclipses
-- **Hobbies:** backend infrastructure, photography, astronomy, anime
+- **Hobbies:** Backend tinkering, photography, astronomy, chess, Sudoku, and anime.
