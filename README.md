@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Tanmay9223/Tanmay9223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Tanmay](https://tanmay9223.vercel.app), an AI & Backend Engineer.
 
-Here are some ideas to get you started:
+I design scalable infrastructure and integrate production-grade GenAI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll architect it and ship it.
+
+My main tech stack is Node.js, Python, Golang, and PostgreSQL. My favorite tools are Docker, AWS, LangChain, and Redis.
+
+I've got a bunch of projects, but I'm currently working on [Synfiction.ai](https://synfiction.ai/).
+
+If you want to reach out, my [email](mailto:gargtanmay321@gmail.com) and [LinkedIn](https://linkedin.com/in/tanmaygarg21) are available here!
+
+**Fun Facts:**
+
+- I optimized a crypto trading platform to handle 3M+ weekly transactions
+- I love tinkering with advanced mobile photography
+- I capture astronomical events like total lunar eclipses
+- **Hobbies:** backend infrastructure, photography, astronomy, anime
