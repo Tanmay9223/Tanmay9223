@@ -18,6 +18,8 @@ If you want to reach out, my [email](mailto:gargtanmay321@gmail.com) and [Linked
   * Implemented verifier-discipline stress tests and asserted scores for the sleep engine. ([PR #96](https://github.com/microsoft/SkillOpt/pull/96), [PR #87](https://github.com/microsoft/SkillOpt/pull/87))
 * **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** [![GitHub stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=social)](https://github.com/DietrichGebert/ponytail)
   * Added ponytail mode status bar indicator and scheme validation for ollama-url. ([PR #275](https://github.com/DietrichGebert/ponytail/pull/275), [PR #274](https://github.com/DietrichGebert/ponytail/pull/274), [PR #268](https://github.com/DietrichGebert/ponytail/pull/268))
+* **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** [![GitHub stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=social)](https://github.com/headroomlabs-ai/headroom)
+  * Fixed OpenCode proxy injection to support `.jsonc` configurations. ([PR #1590](https://github.com/headroomlabs-ai/headroom/pull/1590))
 * **[odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)** [![GitHub stars](https://img.shields.io/github/stars/odysseus-dev/odysseus?style=social)](https://github.com/odysseus-dev/odysseus)
   * Fixed JSON value parsing bug in tool arguments. ([PR #5064](https://github.com/odysseus-dev/odysseus/pull/5064))
 
